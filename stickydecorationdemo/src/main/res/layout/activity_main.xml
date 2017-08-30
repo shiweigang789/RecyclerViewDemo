@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <data>
+
+        <variable
+            name="presenter"
+            type="com.duoduolicai360.stickydecorationdemo.MainActivity.Presenter"/>
+
+    </data>
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <Button
+            android:id="@+id/btn_toSticky"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:onClick="@{(v)->presenter.onClick(v)}"
+            android:text="to Sticky"/>
+
+        <Button
+            android:id="@+id/btn_toPowerfulSticky"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:onClick="@{(v)->presenter.onClick(v)}"
+            android:text="to Powerful Sticky"/>
+
+        <Button
+            android:id="@+id/btn_toPowerfulSticky2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:onClick="@{(v)->presenter.onClick(v)}"
+            android:text="to Beautiful List"/>
+
+    </LinearLayout>
+</layout>
