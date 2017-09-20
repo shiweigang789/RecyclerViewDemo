@@ -1,1 +1,1 @@
-include ':app', ':stickydecorationdemo'
+include ':app', ':stickydecorationdemo', ':recyclerviewplayground', ':simpleone'
