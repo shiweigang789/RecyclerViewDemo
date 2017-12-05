@@ -1,1 +1,1 @@
-include ':app', ':stickydecorationdemo', ':recyclerviewplayground', ':simpleone'
+include ':app', ':stickydecorationdemo', ':recyclerviewplayground', ':simpleone', ':adapter_library', ':rvimageads'

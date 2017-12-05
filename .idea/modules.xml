@@ -3,10 +3,17 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/RecyclerViewDemo.iml" filepath="$PROJECT_DIR$/RecyclerViewDemo.iml" />
+      <module fileurl="file://F:\mygithub\RecyclerViewDemo\RecyclerViewDemo.iml" filepath="F:\mygithub\RecyclerViewDemo\RecyclerViewDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/adapter_library/adapter_library.iml" filepath="$PROJECT_DIR$/adapter_library/adapter_library.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://F:\mygithub\RecyclerViewDemo\app\app.iml" filepath="F:\mygithub\RecyclerViewDemo\app\app.iml" />
       <module fileurl="file://$PROJECT_DIR$/recyclerviewplayground/recyclerviewplayground.iml" filepath="$PROJECT_DIR$/recyclerviewplayground/recyclerviewplayground.iml" />
+      <module fileurl="file://F:\mygithub\RecyclerViewDemo\recyclerviewplayground\recyclerviewplayground.iml" filepath="F:\mygithub\RecyclerViewDemo\recyclerviewplayground\recyclerviewplayground.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rvimageads/rvimageads.iml" filepath="$PROJECT_DIR$/rvimageads/rvimageads.iml" />
       <module fileurl="file://$PROJECT_DIR$/simpleone/simpleone.iml" filepath="$PROJECT_DIR$/simpleone/simpleone.iml" />
+      <module fileurl="file://F:\mygithub\RecyclerViewDemo\simpleone\simpleone.iml" filepath="F:\mygithub\RecyclerViewDemo\simpleone\simpleone.iml" />
       <module fileurl="file://$PROJECT_DIR$/stickydecorationdemo/stickydecorationdemo.iml" filepath="$PROJECT_DIR$/stickydecorationdemo/stickydecorationdemo.iml" />
+      <module fileurl="file://F:\mygithub\RecyclerViewDemo\stickydecorationdemo\stickydecorationdemo.iml" filepath="F:\mygithub\RecyclerViewDemo\stickydecorationdemo\stickydecorationdemo.iml" />
     </modules>
   </component>
 </project>

@@ -8,8 +8,10 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/adapter_library" />
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/recyclerviewplayground" />
+            <option value="$PROJECT_DIR$/rvimageads" />
             <option value="$PROJECT_DIR$/simpleone" />
             <option value="$PROJECT_DIR$/stickydecorationdemo" />
           </set>
